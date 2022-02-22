@@ -9,4 +9,5 @@ jQuery(function(){
          "title": title  
       });
    });
+   console.log(articles);
 });
